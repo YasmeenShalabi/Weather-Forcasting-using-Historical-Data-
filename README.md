@@ -1,7 +1,9 @@
 <h1> Weather Forecasting Using Historical Data (Linear Regression) </h1>
 
-**Overview**
+<h2>Overview</h2>
+
 This project demonstrates a simple weather forecasting model using historical weather features such as temperature, humidity, wind speed, and precipitation.
+
 A Linear Regression model is trained to predict the next day's temperature based on these inputs.
 
 The project includes:
@@ -15,7 +17,7 @@ Visualization of actual vs. predicted temperatures
 Predicting temperature for new weather conditions
 
 
-**Dataset**
+<h2>Dataset</h2>
 
 The dataset is manually created and contains 10 days of weather observations with the following features:
 
@@ -30,7 +32,7 @@ Precipitation — Binary indicator (0 = no rain, 1 = rain)
 Next Day Temperature — Target variable to predict
 
 
-**Modeling Workflow**
+<h2>Modeling Workflow</h2>
 
 **1. Load and Prepare Data**
    
@@ -81,7 +83,5 @@ Predicted temperatures
 This helps visualize model performance.
 
 **6. Predict New Temperature**
-The model predicts next‑day temperature using new weather inputs.
 
-**Visualization Example**
-The script generates a line plot showing actual vs. predicted temperatures for the test set, helping you visually assess model accuracy.
+The model predicts next‑day temperature using new weather inputs.
