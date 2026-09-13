@@ -38,19 +38,9 @@ Next Day Temperature — Target variable to predict
    
 The dataset is converted into a pandas DataFrame.
 
-Features (X) include:
+Features (X) include: Temperature, Humidity, Wind Speed, Precipitation
 
-Temperature
-
-Humidity
-
-Wind Speed
-
-Precipitation
-
-Target (y):
-
-Next Day Temperature
+Target (y): Next Day Temperature
 
 **2. Train/Test Split**
    
