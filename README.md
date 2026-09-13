@@ -1,4 +1,4 @@
-🌦️ Weather Forecasting Using Historical Data (Linear Regression)
+<h1> **Weather Forecasting Using Historical Data (Linear Regression)** </h1>
 📌 Overview
 This project demonstrates a simple weather forecasting model using historical weather features such as temperature, humidity, wind speed, and precipitation.
 A Linear Regression model is trained to predict the next day's temperature based on these inputs.
